@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinFormsTrabalhoIndividual/1.0.0": {
+        "runtime": {
+          "WinFormsTrabalhoIndividual.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsTrabalhoIndividual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

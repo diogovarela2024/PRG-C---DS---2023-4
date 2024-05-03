@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\varel_9jbcwbt\\source\\repos\\PRG_C_DS_2023_4\\WinFormsApp1\\WinFormsApp1.csproj",
-      "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\varel_9jbcwbt\\source\\repos\\PRG_C_DS_2023_4\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\varel_9jbcwbt\\source\\repos\\PRG_C_DS_2023_4\\WinFormsApp1\\WinFormsTrabalhoIndividual.csproj",
+      "projectName": "WinFormsTrabalhoIndividual",
+      "projectPath": "C:\\Users\\varel_9jbcwbt\\source\\repos\\PRG_C_DS_2023_4\\WinFormsApp1\\WinFormsTrabalhoIndividual.csproj",
       "packagesPath": "C:\\Users\\varel_9jbcwbt\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\varel_9jbcwbt\\source\\repos\\PRG_C_DS_2023_4\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
